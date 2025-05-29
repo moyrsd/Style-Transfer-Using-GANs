@@ -1,2 +1,2 @@
-# Style-Transfer-Using-GANs
-Convert a horse to a zebra  
+# Style-Transfer-using-GANs
+This repositry has the code to implement image-to-image translation using cycle GANs in Pytorch.
